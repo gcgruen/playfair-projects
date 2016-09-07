@@ -19,7 +19,7 @@ Now, Gifted and Talented programs are a very special thing to look at -- in theo
 That's why additionally I took a look at Advanced Coursework enrollment. Advanced coursework allows students to earn college credit already in high school. This allows them to take less courses in college and thereby save both, time and money. However this seems to be a program, mainly white students can benefit from:
 
 ![advanced_coursework_enrolement_by_race](boxplot_advanced_coursework-960-01.png)
-![advanced_coursework_distribution_by_race](ac-histogram-960-01.png)
+![advanced_coursework_distribution_by_race](ac-histogram-corrected.png)
 
 But it is not only that black students are not supported. Moreover, already in school there seems to be made a link between race and criminalization. Data shows how black student population is twice as high in schools that have at least one law enforcement officer, compared to schools that don't have one.
 
